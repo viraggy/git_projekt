@@ -17,4 +17,6 @@ print $a + $b +$c;
 
 
 
+
+// Itt a vége!
 ?>
