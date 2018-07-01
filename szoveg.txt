@@ -1,2 +1,2 @@
-Esö sor
-Második sor
+﻿Esö sor
+Másodiksor
