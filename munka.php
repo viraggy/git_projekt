@@ -6,8 +6,8 @@
 //Összeadás
 //-------------------
 
-$a = 10;
-$b = 15;
+$a = 105;
+$b = 150;
 
 print $a + $b;
 
@@ -21,6 +21,6 @@ $y = 19;
 print "<br /><br />" . $x - $y;
 
 
-
+print "Konfliktus lessz......";
 
 ?>
