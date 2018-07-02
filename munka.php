@@ -43,25 +43,5 @@ $másik = 12;
 print ($egyik / $masik) . "<br /><br />";
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Itt a vége!
 ?>
