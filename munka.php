@@ -24,6 +24,44 @@ $z = 270;
 
 print "<br /><br />" . $z - $y + $x ."<br /><br />";
 
+// Szorzás
+//--------------
+
+$kicsi = 3;
+$nagy = 12;
+
+print ($kicsi * $nagy) . "<br /><br />";
+
+
+
+// Osztás
+//------------------------
+
+$egyik = 45;
+$másik = 12;
+
+print ($egyik / $masik) . "<br /><br />";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // Itt a vége!
 ?>
