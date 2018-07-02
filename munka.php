@@ -22,10 +22,7 @@ $x = 5;
 $y = 29;
 $z = 270;
 
-print "<br /><br />" . $z - $y + $x;
-
-
-print "Konfliktus lessz......";
+print "<br /><br />" . $z - $y + $x ."<br /><br />";
 
 
 // Itt a vége!
