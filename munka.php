@@ -42,5 +42,35 @@ print ($kicsi * $nagy) . "<br /><br />";
 
 
 
+
+// Osztás
+//------------------------
+
+$egyik = 45;
+$másik = 12;
+
+print ($egyik / $masik) . "<br /><br />";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Itt a vége!
 ?>
