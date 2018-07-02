@@ -26,6 +26,21 @@ print "<br /><br />" . $x - $y;
 
 print "Konfliktus lessz......";
 
+// Szorzás
+//--------------
+
+$kicsi = 3;
+$nagy = 12;
+
+print ($kicsi * $nagy) . "<br /><br />";
+
+
+
+
+
+
+
+
 
 // Itt a vége!
 ?>
