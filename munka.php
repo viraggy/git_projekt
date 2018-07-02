@@ -27,5 +27,35 @@ print "<br /><br />" . $x - $y;
 print "Konfliktus lessz......";
 
 
+
+// Osztás
+//------------------------
+
+$egyik = 45;
+$másik = 12;
+
+print ($egyik / $masik) . "<br /><br />";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Itt a vége!
 ?>
