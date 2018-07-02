@@ -18,11 +18,11 @@ print $a + $b +$c;
 // Kivonás
 //---------------------
 
-$x = 35;
-$y = 19;
+$x = 5;
+$y = 29;
 $z = 270;
 
-print "<br /><br />" . $x - $y;
+print "<br /><br />" . $z - $y + $x;
 
 
 print "Konfliktus lessz......";
