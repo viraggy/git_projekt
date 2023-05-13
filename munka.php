@@ -20,11 +20,11 @@
  // Kivonás
  // -------------------------
  
- $x = 35;
- $y = 12;
- $z = 37;
+ $x = 15;
+ $y = 2;
+ $z = 170;
  
- print "<br /><br />" . $x - $y;
+ print "<br /><br />" . $z - $x - $y;
  
  print "Konfliktus lessz....";
  
