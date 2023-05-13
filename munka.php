@@ -26,7 +26,6 @@
  
  print "<br /><br />" . $z - $x - $y;
  
- print "Konfliktus lessz....";
  
  
  
