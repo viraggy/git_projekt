@@ -30,7 +30,13 @@
  
  
  
- 
+// Szorzás
+//-----------------------------
+
+$kicsi = 18;
+$nagy = 92;
+
+echo "Szorás eredméne: " .$kicsi * $nagy; 
  
  
  
