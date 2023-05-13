@@ -24,7 +24,7 @@
  $y = 2;
  $z = 170;
  
- print "<br /><br />" . $z - $x - $y;
+ print "<br /><br />" . $z - $x - $y . "<br /><br />";
  
  
  
