@@ -6,8 +6,8 @@
  // Összeadás
  //------------------------
  
- $a = 10;
- $b = 12;
+ $a = 100;
+ $b = 120;
  
  print $a + $b;
  
@@ -22,7 +22,7 @@
  
  print "<br /><br />" . $x - $y;
  
- 
+ print "Konfliktus lessz....";
  
  
 ?>
