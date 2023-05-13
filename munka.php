@@ -7,15 +7,15 @@
  //------------------------
  
 
- $a = 100;
+ $a = 10;
  $b = 33;
- $c = 3;
+ $c = 12;
  $d = 14;
 
  
  print $a + $b + $c + $d;
  
- 
+ // GitHud-on szerkesztettem
  
  
  // Kivonás
