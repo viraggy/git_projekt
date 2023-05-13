@@ -8,8 +8,9 @@
  
  $a = 10;
  $b = 12;
+ $c = 3;
  
- print $a + $b;
+ print $a + $b + $c;
  
  
  
