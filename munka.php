@@ -21,18 +21,35 @@
  // Kivonás
  // -------------------------
  
- $x = 35;
- $y = 12;
+ $x = 15;
+ $y = 2;
+ $z = 170;
  
- print "<br /><br />" . $x - $y;
- 
- print "Konfliktus lessz....";
- 
+ print "<br /><br />" . $z - $x - $y . "<br /><br />";
  
  
  
  
+
  
+// Szorzás
+//-----------------------------
+
+$kicsi = 18;
+$nagy = 92;
+
+echo "Szorás eredméne: " .$kicsi * $nagy; 
+
+
+// Osztás 
+// -------------------------
+
+$egyik = 35;
+$masik = 11;
+
+pint $egyik / $masik . "<br /><br />";
+ 
+
  
  
  
