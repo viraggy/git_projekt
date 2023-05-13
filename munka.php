@@ -29,6 +29,7 @@
  
  
  
+
  
 // Szorzás
 //-----------------------------
@@ -37,7 +38,17 @@ $kicsi = 18;
 $nagy = 92;
 
 echo "Szorás eredméne: " .$kicsi * $nagy; 
+
+
+// Osztás 
+// -------------------------
+
+$egyik = 35;
+$masik = 11;
+
+pint $egyik / $masik . "<br /><br />";
  
+
  
  
  
