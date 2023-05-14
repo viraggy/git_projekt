@@ -28,5 +28,5 @@ echo $a + $b;
 ### JacaScript kód:
 ```javascript
 var p = 23;
-alert("hahaha");
+alert("valami");
 ```
